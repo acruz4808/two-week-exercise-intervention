@@ -1,0 +1,20 @@
+h5 {
+  padding: 10px;
+}
+
+.nav-link:hover {
+  cursor: pointer;
+}
+
+#accordionExampleOne {
+  padding-top: 20px;
+}
+
+button {
+  font-size: 20px !important;
+  font-weight: 400 !important;
+}
+
+li ul{
+ padding: 20px;
+}
